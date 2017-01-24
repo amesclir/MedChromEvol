@@ -1,0 +1,10 @@
+"name"	"age"	"agestem"	"chrom"	"GAIN"	"LOSS"	"DUPLICATION"	"DEMI-DUPLICATION"	"NA"
+angustifolia	0	8	20	0	0	0	0	NA
+chalepensis	0	8	18=1_20=1	0	2	0	0	NA
+graveolens	0	11	36=1_38=1_39=1_40=1	0	4	4	0	NA
+montana	0	17	20	0	0	0	0	NA
+N1	20	20	20	0	0	0	0	0
+N2	11	20	20	0	0	0	0	NA
+N3	8	11	20	0	0	0	0	NA
+N4	17	20	20	0	0	0	0	NA
+pinnata	0	17	20	0	0	0	0	NA
